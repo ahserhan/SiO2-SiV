@@ -1,0 +1,36 @@
+====== Ga (30) into Diamond                     =======
+        SRIM-2013.00
+=======================================
+      Data  of  TRIM  Calculation      
+=======================================
+Ion = Si (14)   Ion Mass= 027.9770
+Energy  = 5000000.E-05 keV
+Ion Angle to Surface = 5 degrees
+============= TARGET MATERIAL ======================================
+  Layer # 1 - Diamond
+  Layer # 1 - Bottom Depth=     1.E+03 A
+  Layer # 1- Density = 17.59E22 atoms/cm3 = 3.51 g/cm3
+  Layer # 1-  C = 100  Atomic Percent = 100  Mass Percent
+====================================================================
+Target energies for target atom =  C
+    Displacement = 28 eV, Binding = 3 eV, Surface = 7.41 eV
+====================================================================
+Depth Range of Tabulated Data=  000000.E+00  -  100000.E-02  Angstroms
+====================================================================
+Total Ions calculated =  099999
+Average Range         =   35527.E-02 Angstroms
+Average Straggling    =   10027.E-02 Angstroms
+Average Vacancy/Ion   =   35746.E-02
+====================================================================
+Total Backscattered Ions=  0 
+Total Transmitted Ions  =  0 
+====================================================================
+See files SRIM Outputs\*.txt for tables :
+   TDATA.txt    -- Details of the calculation.
+   RANGE.txt    -- Final distribution of Ions/Recoils
+   VACANCY.txt  -- Distribution of Vacancies
+   IONIZ.txt    -- Distribution of Ionization
+   PHONON.txt   -- Distribution of Phonons
+   E2RECOIL.txt -- Energy transferred to recoils
+   NOVAC.txt    -- Replacement collisions
+   LATERAL.txt  -- Lateral Spread of Ions
